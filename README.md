@@ -21,5 +21,5 @@ Trinity is a lightweight Streamlit-based PDF QA assistant that uses powerful lan
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/trinity-pdf-qa.git
+   git clone https://github.com/Arnabhira03/trinity-pdf-qa.git
    cd trinity-pdf-qa
